@@ -1,6 +1,7 @@
 # Notion_bot-文献信息爬虫
 
 # V1.0
+## Last updated time: 20220404
 
 ## 需求
    1. 实现特定文献的检索功能
@@ -9,5 +10,5 @@
 
 ## 思路
 * 'extract_page()' 传入网页url,提取文章信息
-* 'search_paper()' 通过文章名称检索url,成功检索返回url，失败返回NA
+* 'notion_XXX()' 写入本地，检索，更新等功能
 
